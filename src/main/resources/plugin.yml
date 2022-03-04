@@ -1,0 +1,7 @@
+name: DirtSlabs
+version: '${project.version}'
+main: com.cluelesscraft.dirtslabs.Main
+api-version: 1.18
+authors: [ Robella, Coolbot ]
+description: Craftable dirt slabs in survival; resource pack needed.
+website: https://www.cluelesscraft.com
